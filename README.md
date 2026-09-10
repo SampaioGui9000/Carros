@@ -10,17 +10,6 @@ Projeto de análise de dados e machine learning sobre um dataset de veículos el
 
 Entender o perfil dos veículos elétricos na base, identificar diferenças estatísticas relevantes entre grupos (tipo de veículo, região, tipo de uso), observar a evolução de indicadores de negócio ao longo dos anos (2015–2024) e construir um modelo de machine learning capaz de estimar o valor de revenda de um veículo a partir de suas características técnicas e de uso.
 
-## Estrutura do repositório
-
-```
-.
-├── EV_Analytics_Notebook.ipynb   # Notebook principal com toda a análise
-├── data/
-│   └── electric_vehicle_analytics.csv   # Dataset utilizado
-├── requirements.txt              # Bibliotecas necessárias
-└── README.md
-```
-
 ## Dataset
 
 O arquivo `data/electric_vehicle_analytics.csv` contém 3.000 registros de veículos elétricos, com 25 colunas, incluindo:
